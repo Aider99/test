@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Smart_learner</string>
+
+    <string name="button_menu1">Арифметика</string>
+    <string name="button_menu2">Русский язык</string>
+    <string name="button_menu3">Пазлы</string>
+    <string name="button_menu4">Рисование</string>
+    <string name="button_menu5">Музыка</string>
+    <string name="button_menu6">Игра "Пятнашки"</string>
+
+    <string name="antonyms">Антонимы</string>
+    <string name="synonyms">Синонимы</string>
+
+    <string name="button_music_play">Слушать</string>
+    <string name="button_music_pause">Пауза</string>
+
+    <string name="button_menu">Меню</string>
+    <string name="button_next">Дальше</string>
+    <string name="button_resert">Заново</string>
+
+    <string name="exit">Выйти</string>
+
+    <string name="green">Зеленый</string>
+    <string name="back">Назад</string>
+    <string name="Colour">Цвет</string>
+    <string name="select_color">Выбрать цвет</string>
+    <string name="shape">Форма</string>
+    <string name="select_brush_shape">Выберите форму кисти</string>
+    <string name="round">Круглая</string>
+    <string name="square">Квадратная</string>
+    <string name="brush">Кисть</string>
+    <string name="adjust_brush_size">Выберите размер кисти</string>
+    <string name="refresh">Очистить полотно</string>
+    <string name="confirm">Подтвердить</string>
+
+</resources>
